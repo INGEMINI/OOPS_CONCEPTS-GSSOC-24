@@ -1,0 +1,2 @@
+Hello, Mahi!
+This is a basic file handling example.
